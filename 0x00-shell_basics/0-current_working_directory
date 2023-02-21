@@ -1,2 +1,2 @@
 #! /bin/bash
-echo "First bash scripting"
+echo "/root/alx-system_engineering-devops/0x00-shell_basics"
