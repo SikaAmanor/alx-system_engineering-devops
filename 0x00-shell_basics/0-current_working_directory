@@ -1,2 +1,2 @@
-#!/bin/bash
-First bash scripting
+#! /bin/bash
+echo "First bash scripting"
